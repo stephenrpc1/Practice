@@ -1,0 +1,16 @@
+---
+title: "newpage.rmd"
+author: "Stephen Peters-Collaer"
+date: "1/26/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Home Page] (index.html)
+
+Let's make a list! 
+*Bullet 1
+*Another bullet
